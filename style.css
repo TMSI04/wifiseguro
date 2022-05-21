@@ -1,0 +1,109 @@
+#fundo{
+    background-color: white 
+
+} 
+
+body{
+    color: black;
+    margin: 0px 80px;
+    display: block;
+    max-width: 640px;
+}
+h1{
+    display: block;
+    max-width: 640px;
+    color: black;
+    text-align: center;
+    font-family: monospace;
+}
+header{
+    display: block;
+    max-width: 640px;
+    padding: 20px 0px;
+    color: black;
+    text-align: end;
+    font-family: monospace;
+}
+h2{
+    display: block;
+    max-width: 640px;
+    color: black;
+    text-align: center;
+    font-family: monospace;
+}
+p{
+    display: block;
+    max-width: 640px;
+    font-size:x-large;
+    font-family: monospace;
+}
+#topico{
+    display: block;
+    max-width: 640px;
+    font-family: monospace;
+    font-size: x-large;
+    text-align: center;
+}
+#sub{
+    display: block;
+    max-width: 640px;
+    font-size: x-large;
+    font-family: monospace;
+    
+}
+#cadeado{
+    display: block;
+    max-width: 640px;
+    position: flex;
+    padding-left: 40px;
+    color: red;
+}
+#sub{
+    display: block;
+    max-width: 640px;
+    font-family: monospace;
+    font-size: x-large;
+}
+#sub_1{
+    display: block;
+    max-width: 640px;
+    font-family: monospace;
+    font-size: x-large;
+}
+#sub_2{
+    display: block;
+    max-width: 640px;
+    font-size: x-large;
+    font-family: monospace;
+}
+#sub_3{
+    display: block;
+    max-width: 640px;
+    font-family: monospace;
+    font-size: x-large;
+}
+#roteador{
+    display: block;
+    max-width: 640px;
+    width:300px;
+    height:200px;
+    padding-left: 30px;
+}
+#local{
+    display: block;
+    max-width: 640px;
+    width: 450px;
+    padding-left: 10px;
+}
+#admin{
+    display: block;
+    max-width: 640px;
+    width: 500px;
+    padding-left: 10px;
+}
+#aberto{
+    display: block;
+    max-width: 640px;
+    width: 500px;
+    
+}
